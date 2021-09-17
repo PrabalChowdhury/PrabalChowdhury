@@ -7,4 +7,20 @@
 <a href="https://fb.com/i.am.tirtho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="i.am.tirtho" height="20" width="30" /></a>
 </p>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=PrabalChowdhury)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://activity-graph.herokuapp.com/graph?username=PrabalChowdhury&theme=react-dark&area=true&hide_border=true" width="100%">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=PrabalChowdhury" alt="PrabalChowdhury" /> </p>
+
+<center>
+  <table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrabalChowdhury&langs_count=10&theme=tokyonight&layout=compact" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=PrabalChowdhury&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" /></td>
+    </tr>   
+  </table>
+</center>  
+
+
+<h2 align='left'>#Github Points: 🏆️</h2>
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&no-bg=true" alt="PrabalChowdhury points"/>
+</p>
