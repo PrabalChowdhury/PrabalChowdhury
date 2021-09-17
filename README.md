@@ -7,4 +7,4 @@
 <a href="https://fb.com/i.am.tirtho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="i.am.tirtho" height="20" width="30" /></a>
 </p>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=PrabalChowdhurya)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=PrabalChowdhury)](https://github.com/ashutosh00710/github-readme-activity-graph)
