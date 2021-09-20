@@ -13,8 +13,8 @@
 <center>
   <table>
     <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrabalChowdhury&langs_count=20&theme=tokyonight&layout=compact" /></td>
-        <td><img style="border-radius: 5px; margin-bottom: 5px" alt="Github Contribution Stats" width="330px" height="240px" src="https://github-contribution-stats.vercel.app/api/?username=PrabalChowdhury"/> </td>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabalchowdhury&langs_count=20&theme=dracula&layout=compact" /></td>
+        <td><img style="border-radius: 5px; margin-bottom: 5px" alt="Github Contribution Stats" width="330px" height="240px" src="https://github-contribution-stats.vercel.app/api/?username=PrabalChowdhury&theme=dracula"/> </td>
     </tr>   
   </table>
 </center>  
@@ -22,7 +22,7 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prabalchowdhury&theme=dracula" alt="prabalchowdhury" /></p>
 
-<img src="https://activity-graph.herokuapp.com/graph?username=PrabalChowdhury&theme=dracula&area=true&hide_border=true" width="100%">
+<img src="https://activity-graph.herokuapp.com/graph?username=prabalchowdhury&theme=dracula&area=true&hide_border=true" width="100%">
 <h3 align="CENTER">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/prabal-chowdhury" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prabal-chowdhury" height="30" width="40" /></a>
