@@ -7,7 +7,7 @@
 - 📫 How to reach me **prabal.k.chowdhury@gmail.com**
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=prabalchowdhury&label=Profile%20views&color=0e75b6&style=flat" alt="prabalchowdhury" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prabalchowdhury" alt="prabalchowdhury" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prabalchowdhury&theme=onedark" alt="prabalchowdhury" /></a> </p>
 
 
 <center>
@@ -20,7 +20,7 @@
 </center>  
 
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prabalchowdhury&" alt="prabalchowdhury" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prabalchowdhury&theme=dracula" alt="prabalchowdhury" /></p>
 
 <img src="https://activity-graph.herokuapp.com/graph?username=PrabalChowdhury&theme=dracula&area=true&hide_border=true" width="100%">
 <h3 align="CENTER">Connect with me:</h3>
