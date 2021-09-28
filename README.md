@@ -11,10 +11,10 @@
 
 
 <center>
-  <table>
-    <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabalchowdhury&langs_count=20&theme=dracula&layout=compact" /></td>
-        <td><img style="border-radius: 5px; margin-bottom: 5px" alt="Github Contribution Stats" width="330px" height="240px" src="https://github-contribution-stats.vercel.app/api/?username=PrabalChowdhury&theme=dracula"/> </td>
+<table>
+<tr>
+<td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrabalChowdhury& langs_count=20&theme=dracula&layout=compact" /></td>
+<td><img style="border-radius: 5px; margin-bottom: 5px" alt="Github Contribution Stats" width="330px" height="240px" src="https://github-contribution-stats.vercel.app/api/?username=PrabalChowdhury&theme=dracula"/> </td>
     </tr>   
   </table>
 </center>  
