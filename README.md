@@ -16,7 +16,7 @@
 <!---<td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrabalChowdhury&langs_count=20&theme=dracula&layout=compact" /></td>-->
     <!---<img height=350px width=380px src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrabalChowdhury&theme=dracula" />--->
     <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrabalChowdhury&layout=compact)](https://github.com/PrabalChowdhury/github-readme-stats)--->
-   <td> <img height=350px width=380px src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrabalChowdhury&layout=compact&theme=dracula&hide_border=true" /></td>
+   <td> <img height=350px width=380px src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrabalChowdhury&layout=compact&theme=dracula" /></td>
 
 <td><img alt="Github Contribution Stats" src="https://github-contribution-stats.vercel.app/api/?username=PrabalChowdhury&theme=dracula"/> </td>
     </tr>   
