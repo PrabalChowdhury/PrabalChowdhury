@@ -22,7 +22,7 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prabalchowdhury&theme=dracula" alt="prabalchowdhury" /></p>
 
-<img src="https://activity-graph.herokuapp.com/graph?username=prabalchowdhury&theme=dracula&area=true&hide_border=true" width="100%">
+<img src="https://activity-graph.herokuapp.com/graph?username=prabalchowhury&theme=dracula&area=true&hide_border=true" width="100%">
 <h3 align="CENTER">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/prabal-chowdhury" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prabal-chowdhury" height="30" width="40" /></a>
