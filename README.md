@@ -11,7 +11,7 @@
 
 <center>
 <table align="center">
-<tr >
+<tr>
    <td><img height=350px width=380px src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrabalChowdhury&theme=dracula" /></td>
   <!-- <td> <img height=350px width=380px src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabalchowdhury&langs_count=8&layout=compact&theme=dracula"/></td>-->
 
