@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prabal Chowdhury</h1>
-<h3 align="center">Undergraduate Student of Computer Science & Engineering at BRAC University.</h3>
+<h3 align="center">Computer Science Graduate from BRAC University.</h3>
 
 
 - 🌱 I’m currently working on **Mobile Application Development**
