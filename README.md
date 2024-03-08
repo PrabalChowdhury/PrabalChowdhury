@@ -2,7 +2,7 @@
 <h3 align="center">Computer Science Graduate from BRAC University.</h3>
 
 
-- 🌱 I’m currently working on **Software Quality Assurance**
+- 🌱 I’m currently working as **Software Quality Assurance Engineer**
 
 - 📫 How to reach me **prabal.k.chowdhury@gmail.com**
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=prabalchowdhury&label=Profile%20views&color=0e75b6&style=flat" alt="prabalchowdhury" /> </p>
